@@ -1,0 +1,20 @@
+header{
+    background-color: lightgrey;
+    height:200px;
+}
+header>#about{
+    font-size: 2em;
+    text-align: center;
+
+}
+
+img{
+    width:200px;
+    height:auto;
+}
+
+.ship {
+    float:left;
+    margin: 50px;
+    height:200px;
+}
